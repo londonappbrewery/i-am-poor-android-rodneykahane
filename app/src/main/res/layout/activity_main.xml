@@ -18,9 +18,8 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="14dp"
-        android:text="@string/textview"
-        android:textSize="50sp"
-        tools:text="@string/title" />
+        android:text="@string/title"
+        android:textSize="50sp" />
 
     <ImageView
         android:id="@+id/imageView"
